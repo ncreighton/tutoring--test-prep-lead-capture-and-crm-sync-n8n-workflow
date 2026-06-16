@@ -1,2 +1,28 @@
-# tutoring--test-prep-lead-capture-and-crm-sync-n8n-workflow
-Automatically capture leads from web forms, emails, and social media into your CRM. Works with any CRM, not locked to one vendor.
+# Tutoring & Test Prep Lead Capture and CRM Sync N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ9ATaDdgaU7BC7jCd0i0X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ9ATaDdgaU7BC7jCd0i0X)
+
